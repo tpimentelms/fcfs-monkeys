@@ -1,5 +1,7 @@
 # fcfs-monkeys
 
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/tpimentelms/fcfs-monkeys/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/tpimentelms/fcfs-monkeys/tree/main)
+
 This code is used to generate random text with First-come First-serve Monkeys.
 
 ## Dependencies

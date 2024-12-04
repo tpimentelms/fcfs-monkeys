@@ -18,7 +18,8 @@ disable=missing-docstring,
         too-many-instance-attributes,
         consider-iterating-dictionary,
         duplicate-code,
-        consider-using-f-string
+        consider-using-f-string,
+        use-yield-from
 
 # Enable the message, report, category or checker with the given id(s). You can
 # either give multiple identifier separated by comma (,) or put this option
